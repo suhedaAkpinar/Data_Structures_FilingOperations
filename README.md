@@ -1,4 +1,4 @@
-# VeriYapıları DosyaIslemleri
+# VeriYapilari DosyaIslemleri
 
 Ödev İçeriği Yazacağınız program C++ konsol uygulaması olup çalıştırıldığında Kisiler.txt isimli dosyayı okuyacaktır. 
 Bu dosyada her satırda bir kişi verilmiştir. 
